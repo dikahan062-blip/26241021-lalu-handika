@@ -1,0 +1,12 @@
+input("nama mahasiswa:")
+input("NIM lengkap :")
+a = int(input("digit A :"))
+b = int(input("digit B :"))
+
+print("=====HASIL PERBANDINGAN=====")
+print("a > b:", a > b)
+print("a < b:", a < b)
+print("a >= b:",a >= b)
+print("a <= b:",a <= b)
+print("a == b:",a == b)
+print("a != b", a != b)
